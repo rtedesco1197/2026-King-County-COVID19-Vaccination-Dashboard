@@ -1,5 +1,7 @@
 Project contains a PowerBI dashboard for COVID-19 Vaccination Rates broken out by social determinants (King county region, age group, race/ethnicity).
 
+Final dashboard is available on roberttedesco.net/portfolio
+
 Data is available from https://kingcounty.gov/en/dept/dph/health-safety/disease-illness/covid-19/data
 King County shape map is available from https://gis-kingcounty.opendata.arcgis.com/datasets/public-health-regions/explore?location=47.430916%2C-121.802557%2C10
 
